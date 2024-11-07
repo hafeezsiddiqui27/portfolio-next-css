@@ -85,16 +85,17 @@ const About = () => {
               <h3 className="subheading">Here You Have It.</h3>
 
               <p className="intro-text">
-                Welcome to my little corner of the web! I’m Hafeez Siddiqui, your digital architect and problem-solver, ready to turn ideas into interactive web experiences. Think of me as a virtual alchemist: I take your vision, mix it with some code, sprinkle a dash of creativity, and voilà – you've got a sleek, functional website that's as smooth as a perfect latte.
-              </p>
+  Welcome to my little corner of the web! I&rsquo;m Hafeez Siddiqui, your digital architect and problem-solver, ready to turn ideas into interactive web experiences. Think of me as a virtual alchemist: I take your vision, mix it with some code, sprinkle a dash of creativity, and voilà – you&rsquo;ve got a sleek, functional website that&rsquo;s as smooth as a perfect latte.
+</p>
 
-              <p className="intro-text">
-                When I’m not experimenting with new ways to make the internet more engaging, you can find me deep in the world of design, fighting bugs (they never stand a chance), and making sure every pixel is in its rightful place. I don’t just build websites; I craft stories, one line of code at a time.
-              </p>
+<p className="intro-text">
+  When I&rsquo;m not experimenting with new ways to make the internet more engaging, you can find me deep in the world of design, fighting bugs (they never stand a chance), and making sure every pixel is in its rightful place. I don&rsquo;t just build websites; I craft stories, one line of code at a time.
+</p>
 
-              <p className="intro-text">
-                I believe a good website is like a good joke: it’s not just about the punchline, it’s about the delivery. So, whether you need a polished business page or a playful project, I’m here to make sure it’s not just functional – it’s memorable. Let’s create something that not only works, but *wows* the people who experience it.
-              </p>
+<p className="intro-text">
+  I believe a good website is like a good joke: it&rsquo;s not just about the punchline, it&rsquo;s about the delivery. So, whether you need a polished business page or a playful project, I&rsquo;m here to make sure it&rsquo;s not just functional &ndash; it&rsquo;s memorable. Let&rsquo;s create something that not only works, but <em>wows</em> the people who experience it.
+</p>
+
             </div>
 
             <div className="robot-image">
